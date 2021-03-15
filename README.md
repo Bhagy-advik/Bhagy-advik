@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bhagy-advik
+- 👋 Hi, I’m @Bhagya Sajeev 
 - 👀 I’m interested in Software Developing.
 - 🌱 I’m currently working on building React Projects.
 - 💞️ I’m looking to collaborate on efficient team that matches my skill and knowledge.
